@@ -3,6 +3,7 @@
 title: "Datasette: Madly accessible data"
 author: "@catherine.devlin@tech.lgbt"
 format: revealjs
+format: pdf
 ---
 
 ## SQLite 
